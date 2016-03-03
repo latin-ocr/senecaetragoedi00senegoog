@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./senecaetragoedi00senegoog_0009.png"; bbox 0 0 2658 4117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 276 477 2176 1022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 226 477 2176 1022">
+     <span class='ocr_line' id='line_1_1' title="bbox 276 477 2176 760; baseline 0.003 -45.872"><span class='ocrx_word' id='word_1_1' title='bbox 276 477 2176 760; x_wconf 41' lang='lat' dir='ltr'><strong>LffffNNAEthNEOAffl</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 589 884 1869 1022; baseline 0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 589 884 1869 1022; x_wconf 72' lang='lat' dir='ltr'><strong>TRAGOEDIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 992 1227 1475 1272">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 992 1227 1475 1272">
+     <span class='ocr_line' id='line_1_3' title="bbox 992 1227 1475 1272; baseline 0.004 -4"><span class='ocrx_word' id='word_1_3' title='bbox 992 1227 1475 1272; x_wconf 74' lang='lat' dir='ltr'>REGENSVERVNT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 291 1448 2156 1520">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 291 1448 2156 1520">
+     <span class='ocr_line' id='line_1_4' title="bbox 291 1448 2156 1520; baseline 0.002 -4"><span class='ocrx_word' id='word_1_4' title='bbox 291 1449 752 1517; x_wconf 77' lang='lat' dir='ltr'><strong>RVDOLFVS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 798 1448 1113 1516; x_wconf 84' lang='lat' dir='ltr'>PEIPER.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1158 1461 1250 1516; x_wconf 80' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1297 1450 1719 1518; x_wconf 79' lang='lat' dir='ltr'><strong>GVS&#39;I&#39;AVVS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1767 1451 2156 1520; x_wconf 84' lang='lat' dir='ltr'><strong>RIGH&#39;I&#39;ER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 729 1929 1736 2051">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 729 1929 1736 2051">
+     <span class='ocr_line' id='line_1_5' title="bbox 729 1929 1736 1971; baseline 0.002 -3"><span class='ocrx_word' id='word_1_9' title='bbox 729 1929 982 1969; x_wconf 74' lang='lat' dir='ltr'>PEIPERI</span> <span class='ocrx_word' id='word_1_10' title='bbox 1022 1929 1319 1971; x_wconf 77' lang='lat' dir='ltr'>SVBSIDHS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1361 1929 1736 1971; x_wconf 72' lang='lat' dir='ltr'><strong>INSTRVGTVS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 806 2009 1657 2051; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 806 2009 1016 2051; x_wconf 68' lang='lat' dir='ltr'>Dmrvo</span> <span class='ocrx_word' id='word_1_13' title='bbox 1058 2009 1346 2051; x_wconf 75' lang='lat' dir='ltr'>EDENDAS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1390 2009 1657 2051; x_wconf 71' lang='lat' dir='ltr'><strong>cvssAvn*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 867 2220 1597 2277">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 867 2220 1597 2277">
+     <span class='ocr_line' id='line_1_7' title="bbox 867 2220 1597 2277; baseline 0.003 -2"><span class='ocrx_word' id='word_1_15' title='bbox 867 2220 1227 2277; x_wconf 70' lang='lat' dir='ltr'><strong>GVSTAVVS</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1273 2221 1597 2277; x_wconf 75' lang='lat' dir='ltr'>RICHTER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1023 3365 1429 3431">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1023 3365 1429 3431">
+     <span class='ocr_line' id='line_1_8' title="bbox 1023 3365 1429 3431; baseline 0.002 -1"><span class='ocrx_word' id='word_1_17' title='bbox 1023 3365 1429 3431; x_wconf 86' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 616 3503 1818 3681">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 616 3503 1818 3681">
+     <span class='ocr_line' id='line_1_9' title="bbox 616 3503 1818 3564; baseline -0.003 0"><span class='ocrx_word' id='word_1_18' title='bbox 616 3507 722 3564; x_wconf 79' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 782 3503 1145 3560; x_wconf 86' lang='lat' dir='ltr'>AEDIBVS</span> <span class='ocrx_word' id='word_1_20' title='bbox 1200 3506 1263 3562; x_wconf 92' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1293 3505 1357 3563; x_wconf 83' lang='lat' dir='ltr'><strong>Gr.</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1387 3506 1818 3562; x_wconf 85' lang='lat' dir='ltr'>TEVBNERI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1136 3637 1320 3681; baseline 0.005 -1"><span class='ocrx_word' id='word_1_23' title='bbox 1136 3637 1320 3681; x_wconf 69' lang='lat' dir='ltr'><strong>10OE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
